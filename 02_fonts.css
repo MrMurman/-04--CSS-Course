@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    /* font-family: Verdana, Geneva, sans-serif; */
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    line-height: 1.6em;
+    font-weight: 400;  /* 400 = normal; 900 = bold */
+
+    /* font: normal 20px "Roboto", sans-serif; it is possible to group */
+
+    /* text-decoration: line-through; */
+    /* font-style: italic; equals to em tag in HTML */
+    /* letter-spacing: 2px; */
+    /* word-spacing: 20px; */
+
+}
+
+/* .css p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-family: bold;
+} */

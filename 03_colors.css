@@ -1,0 +1,29 @@
+.color-1 {
+    color: darkmagenta;
+}
+
+/* RedGreenBlue 2 digits for each */
+/* 00 -> ff */
+/* full red is #ff0000 */
+/* full green is #00ff00 */
+/* full blue is #0000ff */
+/*  pure black  #000000 */
+/*  pure white  #ffffff */
+.color-2 {
+    color: #4B0082    ;
+}
+
+.color-3 {
+    color: #000; /* also pure black - used when all digits are the same */
+}
+
+/* 0-255 */
+.color-4 {
+    color: rgb(255, 0, 0);
+    opacity: 0.5;
+}
+
+/* same as rgb but with opacity */
+.color-5 {
+    color: rgba(255, 0, 0, 0.5);
+}
